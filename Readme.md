@@ -33,7 +33,7 @@ Scikit-learn · Optuna
 RAG Systems · LLM Applications · Model Evaluation  
 
 ### 📊 Data & Visualization
-Pandas · NumPy · Matplotlib  
+Pandas · NumPy · Matplotlib · PyTorch
 
 ### ⚙️ Systems & Workflow
 Linux · Bash · Slurm · Git · GitHub  
