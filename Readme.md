@@ -8,7 +8,7 @@
   - 💼 **Incoming Software Engineer** @ Bending Spoons  
   - 💼 **Previous Machine Learning Engineer** @ Accenture  
 
-- 🧠 **Focus:** Building systems at the intersection of Machine Learning and Computer Systems  
+- 🧠 **Focus:** Building at the intersection of Machine Learning, Computer Systems and Algorithmic Research
 - 🌍 **Location:** Milan 🇮🇹 / New York City 🇺🇸  
 
 ---
