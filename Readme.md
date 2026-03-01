@@ -27,12 +27,12 @@
 Python · Java · C · R · SQL  
 
 **🤖 AI & Machine Learning Engineering:**  
-LangChain · LangGraph · ChromaDB · Retrieval-Augmented Generation (RAG) Systems · LLM & Agentic Applications · PyTorch · Scikit-learn · Optuna  
+LangChain · LangGraph · ChromaDB · RAG Systems · LLM & Agentic Applications · PyTorch · Scikit-learn · Optuna  
 
 **☁️ Cloud & Backend Architecture:**  
-FastAPI · Pydantic · Uvicorn · Google Cloud (Cloud Run, Compute Engine, Cloud SQL, Cloud Functions) · Azure (AI Foundry)  
+FastAPI · Pydantic · SQLAlchemy · Google Cloud (Cloud Run, Compute Engine, Cloud SQL, Cloud Functions) · Azure (AI Foundry)  
 
-**📊 Data Science & Visualization:**  
+**📊 Data & Visualization:**  
 Pandas · NumPy · Matplotlib  
 
 **⚙️ Systems & Workflow:**  
