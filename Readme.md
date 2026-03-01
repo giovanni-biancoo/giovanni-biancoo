@@ -38,8 +38,8 @@ Pandas · NumPy · Matplotlib
 ### ⚙️ Systems & Workflow
 Linux · Bash · Slurm · Git · GitHub  
 
-### 🌐 Exposure (Working Knowledge)
-React · TypeScript · HTML
+### 🌐 Exposure
+Assembly · React · TypeScript · HTML
 
 ## 🤝 Connect with Me
 
