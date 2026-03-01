@@ -1,12 +1,12 @@
 # Hi, I'm **Giovanni** 👋
 
 ## 🚀 About Me
-
-- 🎓 **MSc in Computer Science** @ *Columbia University* (Expected Dec 2027)  
-- 🎓 **BSc in Quantitative Economics & Computer Science (Data Science)** @ *Bocconi University* (2022–2025)
-
-- 💼 **Incoming Software Engineer** @ Bending Spoons  
-- 💼 **Previous Machine Learning Engineer** @ Accenture  
+- **Education**
+  - 🎓 **MSc in Computer Science** @ *Columbia University* (Expected Dec 2027)  
+  - 🎓 **BSc in Quantitative Economics & Computer Science (Data Science)** @ *Bocconi University* (2022–2025)
+- **Work Experience**
+  - 💼 **Incoming Software Engineer** @ Bending Spoons  
+  - 💼 **Previous Machine Learning Engineer** @ Accenture  
 
 - 🧠 **Focus:** Building systems at the intersection of Machine Learning and Computer Systems  
 - 🌍 **Location:** Milan 🇮🇹 / New York City 🇺🇸  
@@ -21,25 +21,25 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack**
 
-### 💻 Languages
+**💻 Programming Languages:**  
 Python · Java · C · R · SQL  
 
-### 🤖 AI & Machine Learning Engineering
-LangChain · LangGraph · ChromaDB  
-FastAPI · Pydantic · Uvicorn  
-Scikit-learn · Optuna  
-RAG Systems · LLM Applications · Model Evaluation  
+**🤖 AI & Machine Learning Engineering:**  
+LangChain · LangGraph · ChromaDB · Retrieval-Augmented Generation (RAG) Systems · LLM & Agentic Applications · PyTorch · Scikit-learn · Optuna  
 
-### 📊 Data & Visualization
-Pandas · NumPy · Matplotlib · PyTorch
+**☁️ Cloud & Backend Architecture:**  
+FastAPI · Pydantic · Uvicorn · Google Cloud (Cloud Run, Compute Engine, Cloud SQL, Cloud Functions) · Azure (AI Foundry)  
 
-### ⚙️ Systems & Workflow
-Linux · Bash · Slurm · Git · GitHub  
+**📊 Data Science & Visualization:**  
+Pandas · NumPy · Matplotlib  
 
-### 🌐 Exposure
-Assembly · React · TypeScript · HTML
+**⚙️ Systems & Workflow:**  
+Linux Kernel Programming (Kernel C, Data Structures & APIs) · Bash · Slurm · Git · GitHub  
+
+**🌐 Frontend & Low-Level Exposure:**  
+Assembly · React · TypeScript · HTML  L
 
 ## 🤝 Connect with Me
 
