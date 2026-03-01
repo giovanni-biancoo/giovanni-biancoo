@@ -44,6 +44,6 @@ React · TypeScript · HTML
 ## 🤝 Connect with Me
 
 <a href="mailto:gbnc26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[https://www.linkedin.com/in/giovanni-bianco-//](https://www.linkedin.com/in/giovanni-bianco-/)"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/giovanni-bianco-//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
