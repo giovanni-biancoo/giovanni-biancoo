@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack**
+## 🛠️ Tech Stack
 
 **💻 Programming Languages:**  
 Python · Java · C · R · SQL  
